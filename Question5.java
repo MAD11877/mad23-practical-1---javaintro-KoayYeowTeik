@@ -32,7 +32,6 @@ public class Question5 {
     for (int i = 0; i < number; i++) {
       numberList.add(in.nextInt());
     }
-    System.out.println(numberList);
     int count = 0;
     int result = 0;
     for (int i : numberList) {
