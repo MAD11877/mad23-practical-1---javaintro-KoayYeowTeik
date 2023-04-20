@@ -13,7 +13,7 @@ public class Question3 {
     System.out.print("Enter an integer: ");
     int number = in.nextInt();
     number *= number;
-    System.out.println("The number multiplied ny itself is " + number);
+    System.out.println(number);
 
   }
 }
